@@ -1,0 +1,15 @@
+C:\Users\Kevinpc\Desktop\Platzi\fundamentosC#\Etapa1\bin\Debug\net7.0\Etapa1.exe
+C:\Users\Kevinpc\Desktop\Platzi\fundamentosC#\Etapa1\bin\Debug\net7.0\Etapa1.deps.json
+C:\Users\Kevinpc\Desktop\Platzi\fundamentosC#\Etapa1\bin\Debug\net7.0\Etapa1.runtimeconfig.json
+C:\Users\Kevinpc\Desktop\Platzi\fundamentosC#\Etapa1\bin\Debug\net7.0\Etapa1.dll
+C:\Users\Kevinpc\Desktop\Platzi\fundamentosC#\Etapa1\bin\Debug\net7.0\Etapa1.pdb
+C:\Users\Kevinpc\Desktop\Platzi\fundamentosC#\Etapa1\obj\Debug\net7.0\Etapa1.csproj.AssemblyReference.cache
+C:\Users\Kevinpc\Desktop\Platzi\fundamentosC#\Etapa1\obj\Debug\net7.0\Etapa1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevinpc\Desktop\Platzi\fundamentosC#\Etapa1\obj\Debug\net7.0\Etapa1.AssemblyInfoInputs.cache
+C:\Users\Kevinpc\Desktop\Platzi\fundamentosC#\Etapa1\obj\Debug\net7.0\Etapa1.AssemblyInfo.cs
+C:\Users\Kevinpc\Desktop\Platzi\fundamentosC#\Etapa1\obj\Debug\net7.0\Etapa1.csproj.CoreCompileInputs.cache
+C:\Users\Kevinpc\Desktop\Platzi\fundamentosC#\Etapa1\obj\Debug\net7.0\Etapa1.dll
+C:\Users\Kevinpc\Desktop\Platzi\fundamentosC#\Etapa1\obj\Debug\net7.0\refint\Etapa1.dll
+C:\Users\Kevinpc\Desktop\Platzi\fundamentosC#\Etapa1\obj\Debug\net7.0\Etapa1.pdb
+C:\Users\Kevinpc\Desktop\Platzi\fundamentosC#\Etapa1\obj\Debug\net7.0\Etapa1.genruntimeconfig.cache
+C:\Users\Kevinpc\Desktop\Platzi\fundamentosC#\Etapa1\obj\Debug\net7.0\ref\Etapa1.dll

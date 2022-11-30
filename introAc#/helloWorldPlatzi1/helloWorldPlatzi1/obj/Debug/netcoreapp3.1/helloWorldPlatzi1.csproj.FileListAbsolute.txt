@@ -1,0 +1,14 @@
+C:\Users\Kevinpc\Desktop\Platzi\introAc#\helloWorldPlatzi1\helloWorldPlatzi1\bin\Debug\netcoreapp3.1\helloWorldPlatzi1.exe
+C:\Users\Kevinpc\Desktop\Platzi\introAc#\helloWorldPlatzi1\helloWorldPlatzi1\bin\Debug\netcoreapp3.1\helloWorldPlatzi1.deps.json
+C:\Users\Kevinpc\Desktop\Platzi\introAc#\helloWorldPlatzi1\helloWorldPlatzi1\bin\Debug\netcoreapp3.1\helloWorldPlatzi1.runtimeconfig.json
+C:\Users\Kevinpc\Desktop\Platzi\introAc#\helloWorldPlatzi1\helloWorldPlatzi1\bin\Debug\netcoreapp3.1\helloWorldPlatzi1.runtimeconfig.dev.json
+C:\Users\Kevinpc\Desktop\Platzi\introAc#\helloWorldPlatzi1\helloWorldPlatzi1\bin\Debug\netcoreapp3.1\helloWorldPlatzi1.dll
+C:\Users\Kevinpc\Desktop\Platzi\introAc#\helloWorldPlatzi1\helloWorldPlatzi1\bin\Debug\netcoreapp3.1\helloWorldPlatzi1.pdb
+C:\Users\Kevinpc\Desktop\Platzi\introAc#\helloWorldPlatzi1\helloWorldPlatzi1\obj\Debug\netcoreapp3.1\helloWorldPlatzi1.csproj.AssemblyReference.cache
+C:\Users\Kevinpc\Desktop\Platzi\introAc#\helloWorldPlatzi1\helloWorldPlatzi1\obj\Debug\netcoreapp3.1\helloWorldPlatzi1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevinpc\Desktop\Platzi\introAc#\helloWorldPlatzi1\helloWorldPlatzi1\obj\Debug\netcoreapp3.1\helloWorldPlatzi1.AssemblyInfoInputs.cache
+C:\Users\Kevinpc\Desktop\Platzi\introAc#\helloWorldPlatzi1\helloWorldPlatzi1\obj\Debug\netcoreapp3.1\helloWorldPlatzi1.AssemblyInfo.cs
+C:\Users\Kevinpc\Desktop\Platzi\introAc#\helloWorldPlatzi1\helloWorldPlatzi1\obj\Debug\netcoreapp3.1\helloWorldPlatzi1.csproj.CoreCompileInputs.cache
+C:\Users\Kevinpc\Desktop\Platzi\introAc#\helloWorldPlatzi1\helloWorldPlatzi1\obj\Debug\netcoreapp3.1\helloWorldPlatzi1.dll
+C:\Users\Kevinpc\Desktop\Platzi\introAc#\helloWorldPlatzi1\helloWorldPlatzi1\obj\Debug\netcoreapp3.1\helloWorldPlatzi1.pdb
+C:\Users\Kevinpc\Desktop\Platzi\introAc#\helloWorldPlatzi1\helloWorldPlatzi1\obj\Debug\netcoreapp3.1\helloWorldPlatzi1.genruntimeconfig.cache

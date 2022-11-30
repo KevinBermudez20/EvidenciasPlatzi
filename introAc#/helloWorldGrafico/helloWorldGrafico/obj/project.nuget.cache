@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LZyoOFetcKK54GSU587mepQPe8dHxi0yF2Pib0ugHex5SLmZR2I1Q1iQDMTDlqEU2zAer3U1TYbS052Ar8nVog==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kevinpc\\Desktop\\Platzi\\introAc#\\helloWorldGrafico\\helloWorldGrafico\\helloWorldGrafico.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kevinpc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}

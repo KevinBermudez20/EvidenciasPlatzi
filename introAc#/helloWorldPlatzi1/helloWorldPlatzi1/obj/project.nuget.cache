@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2A4W+W7fLmeFAQymrBpzlmYWqEchT6p8zz6ymLtQArmn2lio3o6PjU3ybMjJIj/nbrVIwfV79i9zYj48iVUtEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kevinpc\\Desktop\\Platzi\\introAc#\\helloWorldPlatzi1\\helloWorldPlatzi1\\helloWorldPlatzi1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kevinpc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}
